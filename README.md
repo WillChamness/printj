@@ -1,3 +1,9 @@
+# PrintJ
+
+A simple, small, portable tool that parses and formats a JSON string.
+
+Relies ONLY on the C standard library - no external dependencies used.
+
 # Usage
 
 ```
@@ -22,4 +28,4 @@ Example usage:
 
 # Installation
 
-Go to the releases page, download the archive file for Windows or Linux, extract, and put the executable somewhere in the PATH for your user
+Go to the releases page, download the archive file for Windows or Linux, extract, and put the executable somewhere in the PATH for your user.
